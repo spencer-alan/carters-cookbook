@@ -36,6 +36,6 @@ export function Logo () {
     <Image>
       <img src={ChefLogo} alt="Main logo" />
     </Image>
-    <LogoText>Carter's Cookbook</LogoText>
+    <LogoText>Smith Family Cookbook</LogoText>
   </LogoContainer>
 };
